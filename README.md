@@ -23,5 +23,6 @@ Trend analysis and performance metrics by years.
 # PROJECT FILES
 https://github.com/NjorogeMuthondu/SALES-INSIGHTS/blob/main/Screenshot%202025-11-01%20142628.png
 
+https://github.com/NjorogeMuthondu/SALES-INSIGHTS/blob/main/Screenshot%202025-11-01%20142723.png
 
 
