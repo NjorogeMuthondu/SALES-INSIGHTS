@@ -20,6 +20,8 @@ Interactive sales dashboard (Power BI )
 Top 5 products and top 5 customers in relation to revenue.
 
 Trend analysis and performance metrics by years.
-# PROJECT FOLDERS
-├
+# PROJECT FILES
+https://github.com/NjorogeMuthondu/SALES-INSIGHTS/blob/main/Screenshot%202025-11-01%20142628.png
+
+
 
