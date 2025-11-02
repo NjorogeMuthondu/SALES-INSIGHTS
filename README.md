@@ -25,4 +25,4 @@ https://github.com/NjorogeMuthondu/SALES-INSIGHTS/blob/main/Screenshot%202025-11
 
 https://github.com/NjorogeMuthondu/SALES-INSIGHTS/blob/main/Screenshot%202025-11-01%20142723.png
 
-
+https://github.com/NjorogeMuthondu/SALES-INSIGHTS/blob/main/db_dump.sql
