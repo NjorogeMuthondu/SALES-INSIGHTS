@@ -26,3 +26,22 @@ https://github.com/NjorogeMuthondu/SALES-INSIGHTS/blob/main/Screenshot%202025-11
 https://github.com/NjorogeMuthondu/SALES-INSIGHTS/blob/main/Screenshot%202025-11-01%20142723.png
 
 https://github.com/NjorogeMuthondu/SALES-INSIGHTS/blob/main/db_dump.sql
+# DATA CLEANING PROCESS:
+I used SQL to query data which helped in noticing the missing values, duplicates and many other errors in the tables
+
+Removed duplicates and handled missing values
+
+Standardized currency .
+
+Added a normalised amount column that harmonises all the types of currencies involved.
+
+# BOARD WALKTHROUGH
+Revenue by markets
+
+Sales quantity by markets
+
+Top five products by revenue
+
+Top five customers revenue
+
+
