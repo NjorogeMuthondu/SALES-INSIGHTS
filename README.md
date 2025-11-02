@@ -44,4 +44,16 @@ Top five products by revenue
 
 Top five customers revenue
 
+# TECHNOLOGIES USED
+Power BI
+
+SQL 
+
+Git for version control
+# BUSINESS IMPACT
+Reduced reporting time from hours to minutes
+
+Enabled proactive inventory decisions
+
+Improved visibility into sales trends and customer preferences
 
