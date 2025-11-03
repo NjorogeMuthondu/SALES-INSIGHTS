@@ -33,7 +33,7 @@ Removed duplicates and handled missing values
 
 Standardized currency .
 
-Added a normalised amount column that harmonises all the types of currencies involved.
+Added a normalized amount column that harmonizes all the types of currencies involved.
 
 # BOARD WALKTHROUGH
 Revenue by markets
@@ -45,11 +45,11 @@ Top five products by revenue
 Top five customers revenue
 
 # TECHNOLOGIES USED
-Power BI
+### Power BI
 
-SQL 
+### SQL 
 
-Git for version control
+### Git for version control
 # BUSINESS IMPACT
 Reduced reporting time from hours to minutes
 
